@@ -24,6 +24,8 @@
 ### 技术参考 ###
 - 知乎意见反馈
 
+[访问地址:]https://yangsirgo.github.io/Browser_screenshot/
+
 
 
 
